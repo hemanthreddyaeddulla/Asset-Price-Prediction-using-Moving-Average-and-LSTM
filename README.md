@@ -10,7 +10,7 @@ This project implements a robust solution for predicting asset prices using a co
 #### **Features**
 - **Data Fetching**: Automatically retrieves historical stock price data using the `yfinance` API.
 - **Preprocessing**: Incorporates Moving Average calculations for smoothing and trend analysis.
-- **Model**: Employs an LSTM neural network for accurate time-series forecasting.
+- **Model**: Employs an LSTM neural network for accurate time-series forecasting, achieved RMSE of 5.799.
 - **Visualization**: Displays historical data, predictions, and moving average trends through graphical plots.
 - **Deployment**: Includes a Streamlit-based web interface for user-friendly interactions.
 
