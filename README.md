@@ -92,5 +92,3 @@ This project implements a robust solution for predicting asset prices using a co
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ---
-
-Let me know if you'd like adjustments or additional sections!
