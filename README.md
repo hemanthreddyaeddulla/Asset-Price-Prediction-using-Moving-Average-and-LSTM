@@ -70,6 +70,18 @@ This project implements a robust solution for predicting asset prices using a co
 
 ---
 
+### **Outputs**
+- **Stock Price Predictions**:
+  - Graphical representation of actual vs. predicted prices.
+  - Detailed insights into stock trends based on LSTM predictions.
+
+- **Enhancements for Outputs**:
+  - **Incorporate Additional Features**: Add technical indicators like RSI, MACD, or Bollinger Bands for improved predictions.
+  - **Dynamic Forecasting**: Enable the app to predict prices for custom timeframes.
+  - **Portfolio Analysis**: Extend the app to provide portfolio performance predictions.
+
+---
+
 #### **Future Enhancements**
 - **Incorporate Sentiment Analysis**: Integrate news and social media sentiment to improve forecasting accuracy.
 - **Multi-Asset Support**: Extend the app to analyze and predict multiple stocks simultaneously.
